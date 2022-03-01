@@ -14,9 +14,23 @@ import Footer from '../src/patterns/Footer'
 //   );
 // }
 
-import React from 'react'
+// import React from 'react'
 
-const Home = () => {
+// const Home = () => {
+//   return (
+//     <div>
+//       <Header />
+//       <main>
+//         <Typography />
+//       </main>
+//       <Footer />
+//     </div>
+//   );
+// }
+
+// export default Home
+
+const Home: React.FC = () => {
   return (
     <div>
       <Header />
@@ -25,7 +39,7 @@ const Home = () => {
       </main>
       <Footer />
     </div>
-  );
+  )
 }
 
 export default Home
