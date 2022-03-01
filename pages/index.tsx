@@ -2,19 +2,19 @@ import Typography from '../src/components/foundation/Typography';
 import Header from '../src/patterns/Header'
 import Footer from '../src/patterns/Footer'
 
-// export default function Home() {
-//   return (
-//     <div>
-//       <Header />
-//       <main>
-//         <Typography />
-//       </main>
-//       <Footer />
-//     </div>
-//   );
-// }
+export default function Home() {
+  return (
+    <div>
+      <Header />
+      <main>
+        <Typography />
+      </main>
+      <Footer />
+    </div>
+  );
+}
 
-// import React from 'react'
+import React from 'react'
 
 // const Home = () => {
 //   return (
@@ -30,16 +30,16 @@ import Footer from '../src/patterns/Footer'
 
 // export default Home
 
-const Home: React.FC = () => {
-  return (
-    <div>
-      <Header />
-      <main>
-        <Typography />
-      </main>
-      <Footer />
-    </div>
-  )
-}
+// const Home: React.FC = () => {
+//   return (
+//     <div>
+//       <Header />
+//       <main>
+//         <Typography />
+//       </main>
+//       <Footer />
+//     </div>
+//   )
+// }
 
-export default Home
+// export default Home

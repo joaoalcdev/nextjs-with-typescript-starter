@@ -257,7 +257,7 @@ export default class MyDocument extends Document {
             ></meta>
             <meta name="msapplication-config" content="browserconfig.xml"></meta>
             {/*  Manifest  */}
-            <link rel="manifest" href="site.webmanifest"></link>
+            <link rel="manifest" href="../manifest.json"></link>
           </Head>
           <Main />
           <NextScript />
