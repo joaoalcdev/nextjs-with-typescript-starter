@@ -1,10 +1,31 @@
-import styled from 'styled-components'
+import Typography from '../src/components/foundation/Typography';
+import Header from '../src/patterns/Header'
+import Footer from '../src/patterns/Footer'
 
-const Title = styled.h1`
-  color: red;
-  font-size: 50px;
-`
+// export default function Home() {
+//   return (
+//     <div>
+//       <Header />
+//       <main>
+//         <Typography />
+//       </main>
+//       <Footer />
+//     </div>
+//   );
+// }
 
-export default function Home() {
-  return <Title>My page</Title>
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div>
+      <Header />
+      <main>
+        <Typography />
+      </main>
+      <Footer />
+    </div>
+  );
 }
+
+export default Home
