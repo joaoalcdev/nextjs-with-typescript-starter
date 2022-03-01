@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components'
 
 export default createGlobalStyle`
+  /* master reset */
   * {
     box-sizing: border-box;
     margin: 0;
@@ -11,6 +12,5 @@ export default createGlobalStyle`
     font: inherit;
     vertical-align: baseline;
     text-decoration: none;
-    font-family: 'Poppins', sans-serif !important;
   }
 `
