@@ -1,8 +1,7 @@
 <div align="center">
   <h1>
     <p text-align="">Next.Js Template</p> 
-    <svg viewBox="0 0 128 128"><path d="M64 0C28.7 0 0 28.7 0 64s28.7 64 64 64c11.2 0 21.7-2.9 30.8-7.9L48.4 55.3v36.6h-6.8V41.8h6.8l50.5 75.8C116.4 106.2 128 86.5 128 64c0-35.3-28.7-64-64-64zm22.1 84.6l-7.5-11.3V41.8h7.5v42.8z"></path></svg>
-    <img alt="logo" height="80" title="Plant Manager" src="https://marianazorron.com.br/site/wp-content/uploads/2020/04/corona-4931132_1280.png" /> 
+    <img alt="logo" height="80" title="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
   </h1>
 </div>
 
@@ -33,10 +32,7 @@
 NextJs template with typescript using SSR with styled-components. Project folder structure preset and updated libraries. Public project: open source.
 
 ## 🔺 NOTE:
-
-In case the application does not show results, please check the latest data entry data on the website: [ourworldindata](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&pickerSort=asc&pickerMetric=location&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&country=USA~GBR~CAN~DEU~ITA~IND)
-
-- 🔺 | Commits inserted at once without modification, were automatically developed and tested on localhost using terminal interface with Node.Js and tested with Jest.
+The repository is open source, so feel free to contribute with me or give new suggestions on how to improve the project.
 
 ## ✨ Technologies:
 
@@ -52,8 +48,8 @@ In case the application does not show results, please check the latest data entr
 ## 🔨 Architecture and Infrastructure for the Project:
 
 - Architecture folder:
-  <div align="center">
-  <h1 align="center">
+  <div align="left">
+  <h1 align="left">
     <img 
       src="./assets/cover-architecture-folder.png?style=flat"
       alt="Cover Project" 
@@ -62,6 +58,26 @@ In case the application does not show results, please check the latest data entr
 </div>
 
 ## ⚙️ Running the project:
+
+**To use the template, type:**
+```cl
+git clone https://github.com/joaoalcdev/nextjs-with-typescript-starter
+```
+<br />
+**Another option:**
+```cl
+gh repo clone joaoalcdev/nextjs-with-typescript-starter
+```
+<br />
+**Or click "Use this template" at the top of the repository to use:**
+<div align="left">
+  <h1 align="left">
+    <img 
+      src="./assets/cover-click-this-template.png?style=flat"
+      alt="Cover Project" 
+    />
+  </h1>
+</div>
 
 Use **yarn** or **npm install** to install project dependencies.
 Then start the project.
