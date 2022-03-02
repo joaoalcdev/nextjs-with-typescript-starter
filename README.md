@@ -28,6 +28,7 @@
 NextJs template with typescript using SSR with styled-components. Project folder structure preset and updated libraries. Public project: open source.
 
 ## 🔺 NOTE:
+
 The repository is open source, so feel free to contribute with me or give new suggestions on how to improve the project.
 
 ## ✨ Technologies:
@@ -60,6 +61,7 @@ The repository is open source, so feel free to contribute with me or give new su
 ```cl
 git clone https://github.com/joaoalcdev/nextjs-with-typescript-starter
 ```
+
 <br />
 
 **Another option:**
