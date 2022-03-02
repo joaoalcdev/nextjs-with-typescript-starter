@@ -11,6 +11,5 @@ export default createGlobalStyle`
     font: inherit;
     vertical-align: baseline;
     text-decoration: none;
-    font-family: 'Poppins', sans-serif !important;
   }
 `
