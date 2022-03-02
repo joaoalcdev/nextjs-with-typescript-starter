@@ -10,10 +10,6 @@
     src="https://img.shields.io/cocoapods/l/m?color=%23000000&label=license&logo=license&logoColor=%23ffffff" 
     alt="License" 
   />
-  <img 
-    src="https://img.shields.io/badge/Tests-Total%3A%207%20%7C%207%20%E2%9C%85%20%7C%200%20%E2%9D%8C%20%7C-%23000000"
-    alt="Tests" 
-   />
 </p>
 
 <!-- ## 📷 Demonstration: -->
