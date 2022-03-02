@@ -56,16 +56,22 @@ The repository is open source, so feel free to contribute with me or give new su
 ## ⚙️ Running the project:
 
 **To use the template, type:**
+
 ```cl
 git clone https://github.com/joaoalcdev/nextjs-with-typescript-starter
 ```
 <br />
+
 **Another option:**
+
 ```cl
 gh repo clone joaoalcdev/nextjs-with-typescript-starter
 ```
+
 <br />
+
 **Or click "Use this template" at the top of the repository to use:**
+
 <div align="left">
   <h1 align="left">
     <img 
