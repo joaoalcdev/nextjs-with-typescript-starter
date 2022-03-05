@@ -17,7 +17,7 @@
 <div align="center">
   <h1 align="center">
     <!-- <img 
-      src="./assets/cover.gif?style=flat"
+      src="./github-assets/cover.gif?style=flat"
       alt="Cover Project" 
     /> -->
   </h1>
@@ -48,7 +48,7 @@ The repository is open source, so feel free to contribute with me or give new su
   <div align="left">
   <h1 align="left">
     <img 
-      src="./assets/cover-architecture-folder.png?style=flat"
+      src="./github-assets/cover-architecture-folder.png?style=flat"
       alt="Cover Project" 
     />
   </h1>
@@ -77,7 +77,7 @@ gh repo clone joaoalcdev/nextjs-with-typescript-starter
 <div align="left">
   <h1 align="left">
     <img 
-      src="./assets/cover-click-this-template.png?style=flat"
+      src="./github-assets/cover-click-this-template.png?style=flat"
       alt="Cover Project" 
     />
   </h1>
