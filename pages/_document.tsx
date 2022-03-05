@@ -95,7 +95,7 @@ export default class MyDocument extends Document {
 
             {/* Website Images Configuration Sizes Configuration */}
             <meta property="og:locale" content="en"></meta>
-            <meta property="og:image:type" content="./assets/favicon.ico"></meta>
+            <meta property="og:image:type" content="/assets/favicon.ico"></meta>
             <meta property="og:image:width" content="1920"></meta>
             <meta property="og:image:height" content="1080"></meta>
             <meta property="og:type" content="website"></meta>
@@ -154,18 +154,18 @@ export default class MyDocument extends Document {
 
 
             {/* Website / SocialMedia Images Configuration */}
-            <meta name="image" content="./assets/favicon.ico"></meta>
-            <meta itemProp="image" content="./assets/favicon.ico"></meta>
-            <meta property="og:image" content="./assets/favicon.ico"></meta>
-            <meta name="youtube:image" content="./assets/favicon.ico"></meta>
-            <meta name="instagram:image" content="./assets/favicon.ico"></meta>
-            <meta name="facebook:image" content="./assets/favicon.ico"></meta>
-            <meta name="twitter:image" content="./assets/favicon.ico"></meta>
-            <meta name="linkedin:image" content="./assets/favicon.ico"></meta>
+            <meta name="image" content="/assets/favicon.ico"></meta>
+            <meta itemProp="image" content="/assets/favicon.ico"></meta>
+            <meta property="og:image" content="/assets/favicon.ico"></meta>
+            <meta name="youtube:image" content="/assets/favicon.ico"></meta>
+            <meta name="instagram:image" content="/assets/favicon.ico"></meta>
+            <meta name="facebook:image" content="/assets/favicon.ico"></meta>
+            <meta name="twitter:image" content="/assets/favicon.ico"></meta>
+            <meta name="linkedin:image" content="/assets/favicon.ico"></meta>
 
 
             {/* Website Manifest Configuration */}
-            <link rel="manifest" href="%PUBLIC_URL%/manifest.json"></link>
+            <link rel="manifest" href="/manifest.json"></link>
 
 
             {/* Other settings */}
