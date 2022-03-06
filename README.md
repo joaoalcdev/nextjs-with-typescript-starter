@@ -1,7 +1,10 @@
 <div align="center">
   <h1>
-    <p text-align="">Next.Js Template</p> 
-    <img alt="logo" height="80" title="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
+    <p text-align="">Template</p> 
+    <p text-align="">Next.js + Typescript + Styled-Components</p> 
+    <img alt="logo" height="80" title="logo-nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
+    <img alt="logo" height="80" title="logo-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+    <img alt="logo" height="80" title="logo-styled-components" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" /> 
   </h1>
 </div>
 
@@ -72,7 +75,7 @@ gh repo clone joaoalcdev/nextjs-with-typescript-starter
 
 <br />
 
-**Or click "Use this template" at the top of the repository to use:**
+**Or click "Use this template" button at the top of the repository to use:**
 
 <div align="left">
   <h1 align="left">
